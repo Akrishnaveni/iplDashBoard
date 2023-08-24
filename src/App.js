@@ -1,8 +1,6 @@
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
 import Home from './components/Home'
 import LatestMatch from './components/LatestMatch'
-import {Route, Switch} from 'react-router-dom'
-import Home from './components/Home'
 import TeamMatches from './components/TeamMatches'
 import NotFound from './components/NotFound'
 
